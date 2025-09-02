@@ -16,20 +16,20 @@
         "icon": "https://cdn.cs.1worldsync.com/42/ab/42ab0faa-14fd-49be-9aae-1cfa55366c76.jpg"
     },
     {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+        "name": "Redis",
+        "icon": "https://img.icons8.com/color/48/redis--v1.png"
     },
     {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+        "name": "Kafka",
+        "icon": "https://img.icons8.com/nolan/64/apache-kafka.png"
     },
     {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+        "name": "Docker",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-docker-a-set-of-coupled-software-as-a-service-logo-shadow-tal-revivo.png"
     },
     {
-        "name": "ChakraUI",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/color/48/kubernetes.png"
     },
     {
         "name": "TailwindCSS",
