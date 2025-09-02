@@ -76,10 +76,6 @@
         "icon": "https://img.icons8.com/color/48/mysql-logo.png"
     },
     {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
-    },
-    {
         "name": "Terraform",
         "icon": "https://img.icons8.com/color/48/terraform.png"
     },
@@ -89,30 +85,30 @@
     },
     {
         "name": "AI Coding",
-        "icon": "https://img.icons8.com/pastel-glyph/48/laptop-coding--v2.png"
+        "icon": "https://img.icons8.com/fluency/48/laptop-coding.png"
     },
     {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+        "name": "Windows Server",
+        "icon": "https://img.icons8.com/stickers/48/server-windows.png"
     },
     {
-        "name": "DigitalOcean",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
+        "name": "Android App",
+        "icon": "https://img.icons8.com/dusk/100/android-os.png"
     },
     {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+        "name": "Virtualization",
+        "icon": "https://img.icons8.com/pulsar-gradient/48/sandbox.png"
     },
     {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "name": "Google Cloud",
+        "icon": "https://img.icons8.com/fluency/48/google-cloud.png"
     },
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+        "name": "Patching-Upgrades",
+        "icon": "https://img.icons8.com/fluency/48/login-rounded-up.png"
     }    
 ]
