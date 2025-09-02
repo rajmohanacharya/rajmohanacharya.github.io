@@ -4,16 +4,16 @@
         "icon": "https://img.icons8.com/color/48/linux--v1.png"
     },
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+        "name": "Grafana",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo.png"
     },
     {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+        "name": "Prometheus",
+        "icon": "https://img.icons8.com/color/48/prometheus-app.png"
     },
     {
-        "name": "Redux",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+        "name": "Nagios",
+        "icon": "https://cdn.cs.1worldsync.com/42/ab/42ab0faa-14fd-49be-9aae-1cfa55366c76.jpg"
     },
     {
         "name": "Firebase",
