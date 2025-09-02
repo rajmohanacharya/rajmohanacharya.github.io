@@ -5,15 +5,15 @@
     },
     {
         "name": "Grafana",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo.png"
+        "icon": "https://img.icons8.com/color/48/grafana.png"
     },
     {
         "name": "Prometheus",
         "icon": "https://img.icons8.com/color/48/prometheus-app.png"
     },
     {
-        "name": "Nagios",
-        "icon": "https://cdn.cs.1worldsync.com/42/ab/42ab0faa-14fd-49be-9aae-1cfa55366c76.jpg"
+        "name": "Oracle Enterprise Manager",
+        "icon": "https://img.icons8.com/plasticine/100/oracle-linux.png"
     },
     {
         "name": "Redis",
@@ -32,8 +32,8 @@
         "icon": "https://img.icons8.com/color/48/kubernetes.png"
     },
     {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+        "name": "Oracle Database",
+        "icon": "https://img.icons8.com/plasticine/48/oracle-pl-sql--v3.png"
     },
     {
         "name": "Bootstrap",
