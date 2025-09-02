@@ -36,28 +36,28 @@
         "icon": "https://img.icons8.com/plasticine/48/oracle-pl-sql--v3.png"
     },
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "name": "Bash Scripting",
+        "icon": "https://img.icons8.com/plasticine/48/bash.png"
     },
     {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+        "name": "Oracle Cloud",
+        "icon": "https://img.icons8.com/fluency/48/cloud-development--v1.png"
     },
     {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "name": "Oracle Analytics",
+        "icon": "https://img.icons8.com/matisse/48/analytics.png"
     },
     {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+        "name": "Ansible",
+        "icon": "https://img.icons8.com/fluency/240/ansible.png"
     },
     {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+        "name": "Chef",
+        "icon": "https://img.icons8.com/stickers/48/cook-male.png"
     },
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "name": "ELK",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-elasticsearch-a-search-engine-based-on-the-lucene-library-logo-color-tal-revivo.png"
     },
     {
         "name": "Kotlin",
