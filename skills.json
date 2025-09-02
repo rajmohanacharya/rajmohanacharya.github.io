@@ -108,6 +108,14 @@
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/color/240/jenkins.png"
+    },
+        {
+        "name": "PagerDuty",
+        "icon": "https://img.icons8.com/emoji/48/pager.png"
+    },
+    {
         "name": "Patching-Upgrades",
         "icon": "https://img.icons8.com/fluency/48/login-rounded-up.png"
     }    
