@@ -12,7 +12,7 @@
         "icon": "https://img.icons8.com/color/48/prometheus-app.png"
     },
     {
-        "name": "Oracle Enterprise Manager",
+        "name": "OEM",
         "icon": "https://img.icons8.com/plasticine/100/oracle-linux.png"
     },
     {
@@ -32,7 +32,7 @@
         "icon": "https://img.icons8.com/color/48/kubernetes.png"
     },
     {
-        "name": "Oracle Database",
+        "name": "Oracle DB",
         "icon": "https://img.icons8.com/plasticine/48/oracle-pl-sql--v3.png"
     },
     {
