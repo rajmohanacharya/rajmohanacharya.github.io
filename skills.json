@@ -13,7 +13,7 @@
     },
     {
         "name": "OEM",
-        "icon": "https://img.icons8.com/plasticine/100/oracle-linux.png"
+        "icon": "https://icons.iconarchive.com/icons/simpleicons-team/simple/48/oracle-icon.png"
     },
     {
         "name": "Redis",
@@ -60,8 +60,8 @@
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-elasticsearch-a-search-engine-based-on-the-lucene-library-logo-color-tal-revivo.png"
     },
     {
-        "name": "Kotlin",
-        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
+        "name": "JIRA",
+        "icon": "https://img.icons8.com/color/48/jira.png"
     },
     {
         "name": "PHP",
