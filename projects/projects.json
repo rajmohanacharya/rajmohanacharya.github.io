@@ -3,7 +3,7 @@
     "name": "URL Monitor Bash Script",
     "desc": "Monitor URLs from any Linux Server via Bash Scripts for X minutes and if they are DOWN, alert via Email | Slack",
     "image": "notystackandroid",
-    "category": "android",
+    "category": "mern",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/rajmohanacharya/url-monitor-scripts/"
