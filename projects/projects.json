@@ -11,13 +11,14 @@
     {
     "name": "FTP-HTTP-Download-to-Google-Drive",
     "desc": "Fast, reliable Google Colab notebook to download files directly from FTP/HTTP URLs to Google Drive",
-    "image": "slack-url-alert",
+    "image": "ftp_to_gdrive",
     "category": "mern",
     "links": {
       "code": "https://github.com/rajmohanacharya/Google-Colab-Direct-FTP-HTTP-Download-to-Google-Drive"
              }
   }
 ]
+
 
 
 
