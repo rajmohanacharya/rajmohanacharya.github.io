@@ -1,7 +1,7 @@
 [
   {
     "name": "URL Monitor Bash Script",
-    "desc": "Monitor URLs from any Linux Server via Bash Scripts for X minutes and if they are DOWN, alert via Email | Slack",
+    "desc": "Monitor URLs from any Linux Server via Bash Scripts for X minutes and if they are persistently DOWN after Y minutes, alert via Email | Slack",
     "image": "slack-url-alert",
     "category": "mern",
     "links": {
@@ -18,6 +18,7 @@
              }
   }
 ]
+
 
 
 
