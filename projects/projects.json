@@ -20,13 +20,14 @@
     {
     "name": "E-Commerce Website",
     "desc": "Wordpress based E-Commerce Website for Refurbished Laptops/Desktops/Workstations/Accessories",
-    "image": "ftp_to_gdrive",
+    "image": "ecommerce-wordpress",
     "category": "mern",
     "links": {
       "code": "https://theonesourceitsolutions.com/"
              }
   }
 ]
+
 
 
 
