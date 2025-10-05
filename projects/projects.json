@@ -25,8 +25,18 @@
     "links": {
       "code": "https://theonesourceitsolutions.com/"
              }
+  },
+    {
+    "name": "Get GCP Infra via PowerShell Script",
+    "desc": "A comprehensive PowerShell script that provides detailed insights into your Google Cloud Platform (GCP) resources",
+    "image": "gcp_thum",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/rajmohanacharya/gcp-resource-summary-cost-analysis-powershell-script"
+             }
   }
 ]
+
 
 
 
