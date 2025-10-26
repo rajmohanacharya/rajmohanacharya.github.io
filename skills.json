@@ -32,10 +32,6 @@
         "icon": "https://img.icons8.com/dusk/48/android-os.png"
     },
     {
-        "name": "Virtualization",
-        "icon": "https://img.icons8.com/pulsar-gradient/48/sandbox.png"
-    },
-    {
         "name": "App Migration",
         "icon": "https://img.icons8.com/fluency/48/login-rounded-up.png"
     },
@@ -111,16 +107,8 @@
         "name": "Google Cloud",
         "icon": "https://img.icons8.com/fluency/48/google-cloud.png"
     },
-        {
-        "name": "PagerDuty",
-        "icon": "https://img.icons8.com/emoji/48/pager.png"
-    },
     {
         "name": "Wordpress",
         "icon": "https://img.icons8.com/color/48/wordpress.png"
-    },
-    {
-        "name": "MS Office Setup",
-        "icon": "https://img.icons8.com/fluency/48/microsoft-office-2019.png"
     }
 ]
