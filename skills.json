@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Oracle Enterprise Manager",
+        "icon": "https://img.icons8.com/fluency/48/system-task.png"
+    },
+    {
+        "name": "Oracle DB",
+        "icon": "https://img.icons8.com/plasticine/48/oracle-pl-sql--v3.png"
+    },
+    {
+        "name": "Oracle Cloud",
+        "icon": "https://img.icons8.com/fluency/48/cloud-development--v1.png"
+    },
+    {
+        "name": "Oracle Analytics",
+        "icon": "https://img.icons8.com/matisse/48/analytics.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/48/linux--v1.png"
+    },
+    {
+        "name": "Windows Server",
+        "icon": "https://img.icons8.com/stickers/48/server-windows.png"
+    },
+    {
+        "name": "Bash Scripting",
+        "icon": "https://img.icons8.com/plasticine/48/bash.png"
+    },
+    {
+        "name": "Android App",
+        "icon": "https://img.icons8.com/dusk/48/android-os.png"
+    },
+    {
+        "name": "Virtualization",
+        "icon": "https://img.icons8.com/pulsar-gradient/48/sandbox.png"
+    },
+    {
+        "name": "App Migration",
+        "icon": "https://img.icons8.com/fluency/48/login-rounded-up.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "Chef",
+        "icon": "https://img.icons8.com/stickers/48/cook-male.png"
+    },
+    {
+        "name": "Ansible",
+        "icon": "https://img.icons8.com/fluency/48/ansible.png"
+    },
+    {
+        "name": "Terraform",
+        "icon": "https://img.icons8.com/color/48/terraform.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-docker-a-set-of-coupled-software-as-a-service-logo-shadow-tal-revivo.png"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/color/48/kubernetes.png"
+    },
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/color/48/jenkins.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "ELK",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-elasticsearch-a-search-engine-based-on-the-lucene-library-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "Redis",
+        "icon": "https://img.icons8.com/color/48/redis--v1.png"
+    },
+    {
+        "name": "Kafka",
+        "icon": "https://img.icons8.com/nolan/64/apache-kafka.png"
+    },
+    {
+        "name": "Grafana",
+        "icon": "https://img.icons8.com/color/48/grafana.png"
+    },
+    {
+        "name": "Prometheus",
+        "icon": "https://img.icons8.com/color/48/prometheus-app.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/mysql-logo.png"
+    },
+    {
+        "name": "JIRA",
+        "icon": "https://img.icons8.com/color/48/jira.png"
+    },
+    {
+        "name": "BitBucket",
+        "icon": "https://img.icons8.com/color/48/bitbucket.png"
+    },
+    {
+        "name": "Confluence",
+        "icon": "https://img.icons8.com/color/48/confluence--v2.png"
+    },
+    {
+        "name": "Google Cloud",
+        "icon": "https://img.icons8.com/fluency/48/google-cloud.png"
+    },
+        {
+        "name": "PagerDuty",
+        "icon": "https://img.icons8.com/emoji/48/pager.png"
+    },
+    {
+        "name": "Wordpress",
+        "icon": "https://img.icons8.com/color/48/wordpress.png"
+    }    
+]
