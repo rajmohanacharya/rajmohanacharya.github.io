@@ -15,6 +15,14 @@
         "name": "Oracle Analytics",
         "icon": "https://img.icons8.com/matisse/48/analytics.png"
     },
+        {
+        "name": "Oracle WebLogic",
+        "icon": "https://img.icons8.com/color/48/12c.png"
+    },
+    {
+        "name": "Incident Management",
+        "icon": "https://img.icons8.com/external-beshi-glyph-kerismaker/48/external-Troubleshooting-help-and-support-beshi-glyph-kerismaker.png"
+    },
     {
         "name": "Linux",
         "icon": "https://img.icons8.com/color/48/linux--v1.png"
