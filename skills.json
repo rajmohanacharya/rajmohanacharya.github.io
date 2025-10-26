@@ -1,10 +1,10 @@
 [
     {
-        "name": "Oracle Enterprise Manager",
+        "name": "Oracle Enterprise Manager V13.5, 24.1",
         "icon": "https://img.icons8.com/fluency/48/system-task.png"
     },
     {
-        "name": "Oracle DB",
+        "name": "Oracle Database",
         "icon": "https://img.icons8.com/plasticine/48/oracle-pl-sql--v3.png"
     },
     {
@@ -118,5 +118,9 @@
     {
         "name": "Wordpress",
         "icon": "https://img.icons8.com/color/48/wordpress.png"
-    }    
+    },
+    {
+        "name": "MS Office Setup",
+        "icon": "https://img.icons8.com/fluency/48/microsoft-office-2019.png"
+    }
 ]
