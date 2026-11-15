@@ -271,7 +271,7 @@ header .navbar ul li a:hover {
 .home .btn:hover i {
   transform: translateX(5px);
 }
-/* social icons start */
+/* social icons */
 .socials {
   position: relative;
   margin-top: 9rem;
@@ -301,48 +301,32 @@ header .navbar ul li a:hover {
   transition: all 0.2s linear;
 }
 .social-icons a:active,
-.social-icons a:focus,
 .social-icons a:hover {
   color: #fff;
   background-color: #0685da;
 }
-.social-icons a.github:hover {
-  background-color: #0e0e0e;
+.social-icons .linkedin:hover {
+  background-color: #0e76a8;
 }
-.social-icons a.twitter:hover {
-  background-color: #00aced;
+.social-icons .github:hover {
+  background-color: #0d1117;
 }
-.social-icons a.linkedin:hover {
-  background-color: #007bb6;
+.social-icons .twitter:hover {
+  background-color: #00acee;
 }
-.social-icons a.dev:hover {
-  background-color: #070707;
+.social-icons .telegram:hover {
+  background-color: #0088cc;
 }
-.social-icons a.instagram:hover {
+.social-icons .instagram:hover {
   background-color: #ee00da;
 }
-/* social icons end */
-
-/* hero media queries starts*/
-@media (max-width: 450px) {
-  .home .btn {
-    margin: 4rem 0;
-  }
-  .socials {
-    margin-top: 12rem;
-  }
-  .home .image img {
-    margin-top: -12rem;
-  }
-  .home .content p {
-    font-size: 2.2rem;
-  }
-  .home .content p span {
-    font-size: 2.2rem;
-  }
+.social-icons .dev:hover {
+  background-color: #070707;
 }
-/* hero media queries ends*/
-/* hero section end */
+.social-icons .whatsapp:hover {
+  background-color: #25d366;
+}
+/* hero section ends */
 
 /* about section starts */
 .about {
@@ -400,6 +384,9 @@ header .navbar ul li a:hover {
   font-family: "Nunito";
   font-weight: 600;
 }
+.about .row .content .box-container .box {
+  flex: 1 1 20rem;
+}
 .about .row .content .box-container .box p {
   text-transform: none;
 }
@@ -432,30 +419,8 @@ header .navbar ul li a:hover {
   background: #1a047e;
 }
 .resumebtn .btn:hover i {
-  transform: translateX(5px);
+  transform: translateX(4px);
 }
-/* about media queries starts*/
-@media screen and (max-width: 600px) {
-  .about .row .image {
-    margin-top: 2rem;
-  }
-  .about .row .image img {
-    margin: 0 auto;
-    width: 80%;
-    mix-blend-mode: normal;
-  }
-  .about .row {
-    padding: 0.5rem;
-    margin-bottom: 7rem;
-  }
-  .about .row .content {
-    padding: 1rem;
-  }
-  .about .row .content .box-container {
-    gap: 0;
-  }
-}
-/* about media queries ends*/
 /* about section ends */
 
 /* skills section starts */
@@ -467,7 +432,7 @@ header .navbar ul li a:hover {
   color: #fff;
 }
 .skills .heading span {
-  color: rgb(255, 230, 0);
+  color: #ffe600;
 }
 .skills .container {
   background: rgba(0, 0, 22, 0.4);
@@ -512,7 +477,7 @@ header .navbar ul li a:hover {
   font-family: "Poppins";
   margin-left: 0.5rem;
 }
-/* skills media queries starts*/
+/* skills media queries */
 @media screen and (max-width: 600px) {
   .skills .container {
     padding: 0;
@@ -529,7 +494,6 @@ header .navbar ul li a:hover {
     width: 100%;
   }
 }
-/* skills media queries ends*/
 /* skills section ends */
 
 /* education section starts */
@@ -584,7 +548,8 @@ header .navbar ul li a:hover {
   flex-direction: column;
   padding: 1rem;
   flex-wrap: wrap;
-  flex: 1 1 70rem;
+  align-items: flex-start;
+  width: 100%;
 }
 .education .box-container .box .content h3 {
   font-size: 2.5rem;
@@ -592,23 +557,22 @@ header .navbar ul li a:hover {
   padding: 0.5rem 0;
   font-weight: 600;
   text-align: left;
-  margin-left: 1rem;
 }
 .education .box-container .box .content p {
   font-size: 1.5rem;
-  margin-left: 1rem;
+  padding: 0.5rem 0;
   text-align: left;
 }
-.education h4 {
-  font-size: 2rem;
+.education .box-container .box h4 {
+  font-size: 1.7rem;
   color: rgb(34, 109, 0);
   text-align: left;
-  margin: 1rem;
   font-family: "Nunito", sans-serif;
   font-weight: 700;
+  padding: 0.5rem 0;
 }
 
-/* education media queries starts*/
+/* education media queries */
 @media screen and (max-width: 600px) {
   .education .box-container .box {
     flex-direction: column;
@@ -627,29 +591,30 @@ header .navbar ul li a:hover {
     flex-direction: column;
     padding: 1rem;
     flex-wrap: wrap;
-    flex: 0;
+    align-items: flex-start;
   }
-  .education .btns {
-    margin-top: 2rem;
-    margin-left: 1rem;
-    margin-right: 1rem;
-    flex-wrap: wrap;
+  .education .box-container .box .content h3 {
+    font-size: 2.1rem;
+  }
+  .education .box-container .box .content p {
+    font-size: 1.4rem;
+  }
+  .education .box-container .box h4 {
+    font-size: 1.4rem;
   }
 }
-/* education media queries ends*/
 /* education section ends */
 
 /* work section starts */
 .work {
-  /* background: #010124; */
-  background: linear-gradient(to bottom, #000031, #00002c);
+  background: #010124;
 }
 .work h2 {
   color: #fff;
   padding: 1rem;
 }
 .work .heading span {
-  color: rgb(255, 230, 0);
+  color: #ffe600;
 }
 .work .box-container {
   display: flex;
@@ -708,7 +673,7 @@ header .navbar ul li a:hover {
 .work .desc .btns {
   display: flex;
   justify-content: space-between;
-  width: 100%;
+  text-align: center;
   margin-top: 2rem;
 }
 .work .desc .btns .btn {
@@ -760,10 +725,13 @@ header .navbar ul li a:hover {
 /* work section ends */
 
 /* experience section starts */
+.experience {
+  background: #e5ecfb;
+}
 .experience .timeline {
   position: relative;
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 2rem auto;
 }
 .experience .timeline::after {
   content: "";
@@ -790,7 +758,7 @@ header .navbar ul li a:hover {
   height: 25px;
   right: -17px;
   background-color: rgb(255, 255, 255);
-  border: 4px solid #ff9f55;
+  border: 4px solid #f68c09;
   top: 15px;
   border-radius: 50%;
   z-index: 100;
@@ -855,6 +823,18 @@ header .navbar ul li a:hover {
 }
 .experience .content .desc p {
   font-size: 1.2rem;
+  color: #2506ad;
+  font-weight: 500;
+}
+.experience .content .desc ul {
+  margin-top: 0.8rem;
+  padding-left: 1.5rem;
+}
+.experience .content .desc ul li {
+  font-size: 1.15rem;
+  margin-bottom: 0.4rem;
+  line-height: 1.5;
+  color: #333;
 }
 /* view all button */
 .morebtn {
@@ -886,30 +866,21 @@ header .navbar ul li a:hover {
   background: #1a047e;
 }
 .morebtn .btn:hover i {
-  transform: translateX(5px);
+  transform: translateX(4px);
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
 @media screen and (max-width: 600px) {
-  .experience {
-    min-height: 80vh;
-  }
-  .experience .timeline {
-    margin-top: 2rem;
-  }
   .experience .timeline::after {
     left: 31px;
   }
   .experience .container {
     width: 100%;
-    padding-left: 8rem;
-    padding-right: 2rem;
-  }
-  .experience .container::after {
-    font-size: 2.2rem;
+    padding-left: 70px;
+    padding-right: 25px;
   }
   .experience .container::before {
-    left: 61px;
+    left: 60px;
     border: medium solid #f68c09;
     border-width: 10px 10px 10px 0;
     border-color: transparent #f68c09 transparent transparent;
@@ -923,8 +894,8 @@ header .navbar ul li a:hover {
   .experience .right {
     left: 0%;
   }
-  .morebtn {
-    margin-top: 3rem;
+  .experience .container::after {
+    font-size: 2.2rem;
   }
 }
 /* experience media queries ends */
