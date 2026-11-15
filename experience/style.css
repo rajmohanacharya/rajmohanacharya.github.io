@@ -259,6 +259,18 @@ header .navbar ul li a:hover{
 }
 .experience .content .desc p{
   font-size: 1.2rem;
+  color: #2506ad;
+  font-weight: 500;
+}
+.experience .content .desc ul{
+  margin-top: 0.8rem;
+  padding-left: 1.5rem;
+}
+.experience .content .desc ul li{
+  font-size: 1.15rem;
+  margin-bottom: 0.4rem;
+  line-height: 1.5;
+  color: #333;
 }
 /* view all button */
 .morebtn{
